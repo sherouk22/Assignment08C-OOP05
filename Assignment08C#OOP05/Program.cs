@@ -1,5 +1,6 @@
 ﻿using Assignment08C_OOP05.First_Project;
 using Assignment08C_OOP05.Second_Project;
+using Assignment08C_OOP05.Third_Project;
 
 namespace Assignment08C_OOP05
 {
@@ -93,6 +94,27 @@ namespace Assignment08C_OOP05
 
 
             #endregion
+
+            #region Third Project:
+
+            //Duration D1 = new Duration(1, 10, 15);
+            //Console.WriteLine(D1.ToString());
+
+            //Duration D2 = new Duration(3600);
+            //Console.WriteLine(D2.ToString());
+
+            //Duration D3 = new Duration(7800);
+            //Console.WriteLine(D3.ToString());
+
+            //Duration D4 = new Duration(666);
+            //Console.WriteLine(D4.ToString());
+
+            // int x = D1.GetHashCode();
+            //Console.WriteLine(x.ToString());
+
+            #endregion
+
+
 
 
         }
