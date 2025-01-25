@@ -23,7 +23,7 @@ namespace Assignment08C_OOP05.Third_Project
 
         public override string ToString()
         {
-            return $"{Hours} hours, {Minutes} minutes, {Seconds} seconds";
+            return $"hours: {Hours} ,minutes: {Minutes} ,seconds: {Seconds} ";
 
         }
 
